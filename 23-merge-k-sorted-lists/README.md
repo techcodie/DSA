@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/merge-k-sorted-lists">Merge k Sorted Lists</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an array of <code>k</code> linked-lists <code>lists</code>, each linked-list is sorted in ascending order.</p>
+<h2><a href="https://leetcode.com/problems/merge-k-sorted-lists">Merge k Sorted Lists</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an array of <code>k</code> linked-lists <code>lists</code>, each linked-list is sorted in the ascending order.</p>
 
 <p><em>Merge all the linked-lists into one sorted linked-list and return it.</em></p>
 
